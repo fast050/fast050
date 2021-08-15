@@ -2,7 +2,7 @@
 - 👀 I’m interested in android development , gaming gaming development
 - 🌱 I’m currently learning android development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me [a link](https://www.linkedin.com/in/khalid-mohamed-a529321b7/.md)
+- 📫 How to reach me [Here](https://www.linkedin.com/in/khalid-mohamed-a529321b7/.md)
 
 
 <!---
