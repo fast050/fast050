@@ -1,15 +1,3 @@
-- 👋 Hi, I’m @fast050
-- 🌱 I’m currently learning android development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me [Here](https://www.linkedin.com/in/khalid-mohamed-a529321b7/.md)
-
-
-<!---
-fast050/fast050 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
 ### Hello World, I'm Khalid  👋
 
 <!-- 
@@ -24,8 +12,7 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning android development
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
+- 📫 How to reach me [Here](https://www.linkedin.com/in/khalid-mohamed-a529321b7/.md)
 
 <!--
 ### Talk with me, I am kinda awesome:
