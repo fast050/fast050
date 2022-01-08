@@ -6,8 +6,7 @@
 -->
 
 ## I'm a  Developer
-- 👋 Hi, I’m Khalid Elfaki nick name @fast050
-- ✍ You can find my projects here [portfolio]
+- 👋 Hi, I’m Khalid Elfaki ,nick name fast050
 - 👀 I’m interested in android development , gaming gaming development
 - 🌱 I’m currently learning android development
 - 👯 I’m looking to collaborate on open source
