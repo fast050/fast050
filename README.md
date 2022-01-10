@@ -21,6 +21,10 @@
 
 </details>
 
+<p float="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=fast050&show_icons=true&theme=dark&count_private=true&hide=contribs,issue" /> <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fast050&layout=compact&theme=dark" />
+</p>
+
 <details>
   <summary>:zap: Most Used Languages</summary>
 
