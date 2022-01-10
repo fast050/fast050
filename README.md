@@ -19,8 +19,7 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/khalid-mohamed-software050/
-[twitter]: https://twitter.com/khalidelfaki11
+
 <!--
 [portfolio]: https://arsentieva.github.io/profile/
 -->
