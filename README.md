@@ -11,7 +11,6 @@
 - 🌱 I’m currently learning android development
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
-- 📫 How to reach me [Here](https://www.linkedin.com/in/khalid-mohamed-a529321b7/.md)
 
 
 <p float="center">
@@ -25,3 +24,11 @@
 <!--
 [portfolio]: https://arsentieva.github.io/profile/
 -->
+## 📫 How to reach me
+
+You can find and get touch with me on these accounts 👀
+
+[![LinkedIn Badge](https://img.shields.io/badge/Khalid-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/khalid-mohamed-software050/)
+
+[![Twitter Badge](https://img.shields.io/badge/Khalid-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)]
+(https://twitter.com/khalidelfaki11)
