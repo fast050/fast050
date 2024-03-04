@@ -7,7 +7,7 @@
 
 ## I'm a  Developer
 - 👋 Hi, I’m Khalid Elfaki, Google Certified Associate Android Developer 
-- 👀 I’m interested in android development , gaming gaming development
+- 👀 I’m interested in Android development
 - 💬 Ask me about ... Anything
 
 
