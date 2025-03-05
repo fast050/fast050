@@ -29,3 +29,6 @@ You can find and get in touch with me on these accounts 👀
 [![LinkedIn Badge](https://img.shields.io/badge/Khalid-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/khalid-mohamed-developer/)
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@khalidElfaki)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://fast050.github.io)
+
