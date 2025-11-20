@@ -7,7 +7,7 @@
 
 ## I'm a  Developer
 - 👋 Hi, I’m Khalid Elfaki, Google Certified Associate Android Developer 
-- 👀 I’m interested in Android development
+- 👀 I’m currently interested in (Flutter / Native Android) Development
 - :suspect: I'm currently studying the Full-Stack track from [Programming Advices](https://programmingadvices.com/p/roadmap).
 - 💬 Ask me about ... Anything
 
